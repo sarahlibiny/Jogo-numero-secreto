@@ -1,6 +1,9 @@
 # Jogo número secreto
 Projeto desenvolvido durante o curso Javascript na Web: validações e reconhecimento de voz, na plataforma Alura.
 
+![numeroSecreto](https://github.com/sarahlibiny/Jogo-numero-secreto/assets/122837977/84181ad4-cae8-4f94-9b88-bfe3dd3fdb25)
+
+
 ## ✔️ Tecnologias utilizadas
 
 - HTML5
